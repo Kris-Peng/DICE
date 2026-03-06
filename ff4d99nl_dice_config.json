@@ -1,0 +1,22 @@
+{
+  "session_code": "ff4d99nl",
+  "created_date": "2026-03-06T15:32:37.355Z",
+  "dice_version": "1.0",
+  "title": "Dr.",
+  "full_name": "Kris Peng",
+  "eMail": "kpeng@hbs.edu",
+  "study_name": "test study",
+  "internal_name": "test study preview across conditions",
+  "recruitment_platform": "Prolific",
+  "participant_number": 4,
+  "url_parameter_name": "PROLIFIC_PID",
+  "channel_type": "Insta",
+  "content_url": "https://raw.githubusercontent.com/Kris-Peng/DICE/refs/heads/main/DICE%20instagram%20design.csv",
+  "delimiter": ",",
+  "search_term": "Stephanie Brooks",
+  "display_skyscraper": false,
+  "survey_url": "",
+  "dwell_threshold": 75,
+  "briefing": "<h2>Study Instructions</h2><p>You will be shown a social media feed. Please <u>browse</u> through the content naturally.</p><p>Take your time to read the posts that you find interesting.</p>",
+  "consent_form": "<h2>Consent Form</h2><p>Within the scope of the study, great importance is attached to compliance with data protection regulations, the protection of privacy and the confidentiality of the data. We strictly adhere to all applicable laws and regulations on data protection. With these notes we inform you about the processing of your personal data and the rights to which you are entitled. </p><p><br></p><h5><br></h5>"
+}
