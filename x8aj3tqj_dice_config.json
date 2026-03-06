@@ -1,0 +1,22 @@
+{
+  "session_code": "x8aj3tqj",
+  "created_date": "2026-03-06T21:07:19.655Z",
+  "dice_version": "1.0",
+  "title": "Ms.",
+  "full_name": "Kris Peng",
+  "eMail": "kpeng@hbs.edu",
+  "study_name": "Behavioral Science Survey",
+  "internal_name": "test pilot",
+  "recruitment_platform": "Prolific",
+  "participant_number": 4,
+  "url_parameter_name": "PROLIFIC_PID",
+  "channel_type": "Insta",
+  "content_url": "https://raw.githubusercontent.com/Kris-Peng/DICE/refs/heads/main/DICE%20instagram%20design.csv",
+  "delimiter": ",",
+  "search_term": "Stephanie Brooks",
+  "display_skyscraper": false,
+  "survey_url": "https://hbs.qualtrics.com/jfe/form/SV_b7TleHZyppdBY3A",
+  "dwell_threshold": 75,
+  "briefing": "<h2>Study Instructions</h2><p>You will be shown a social media feed. Please <u>browse</u> through the content naturally.</p><p>Take your time to read the posts that you find interesting.</p><p><br></p><p>This is a test. we will put some text here for real study.</p>",
+  "consent_form": "<h2>Consent Form</h2><p>Within the scope of the study, great importance is attached to compliance with data protection regulations, the protection of privacy and the confidentiality of the data. We strictly adhere to all applicable laws and regulations on data protection. With these notes we inform you about the processing of your personal data and the rights to which you are entitled. </p><p><br></p><h5><br></h5><p>This is a test. we will put some text here for real study.</p>"
+}
